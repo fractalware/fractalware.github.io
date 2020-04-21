@@ -1,9 +1,9 @@
 title: FRACTALWARE
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: FRACTALWARE
+  email: fractalware@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Game Development stuff
+  Game Development
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -14,16 +14,18 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: fractalware
+    facebook: fractalwarestudios
+    youtube: fractalware
+    # github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
-    # facebook: jekyll
+    #
     # flickr:   jekyll
     # instagram: jekyll
     # linkedin: jekyll
     # pinterest: jekyll
-    # youtube: jekyll
+    # youtube: "https://www.youtube.com/channel/UCmKG0Je5leyrqkRilYwQ3TQ?"
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
     # youtube_channel_name: CloudCannon
     # telegram: jekyll
