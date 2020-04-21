@@ -54,7 +54,7 @@ header_pages:
  - contact.markdown
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 
 minima:
  skin: dark
